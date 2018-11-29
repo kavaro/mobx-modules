@@ -2,7 +2,11 @@
   "name": "mobx-modules",
   "version": "0.0.1",
   "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
   "license": "MIT",
+  "repository": "https://github.com/kavaro/mobx-modules.git",
   "dependencies": {
     "buble": "^0.19.6"
   },
